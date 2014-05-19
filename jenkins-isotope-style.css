@@ -22,11 +22,13 @@ h1, h2, h3, h4, h5, h6 {
     background: url("http://static.squarespace.com/static/530dc397e4b0769bdb49b320/t/531120e8e4b00ae8705ba5f2/1394808100543/?format=1500w") 0 0 no-repeat;
     display: block;
     width: 130px;
-    height: 40px;
+    height: 119px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
       display: none; }
-
+#top-stick-inner {
+  margin-top: 55px;
+  }
 #projectstatus {
   background: #fff; }
   #projectstatus tr:nth-of-type(odd) {
